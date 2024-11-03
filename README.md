@@ -12,7 +12,7 @@ This project includes:
 
 ## Dataset
 
-The dataset used for this project is a preprocessed dataset from Roboflow. It contains images of hand signs (Rock, Paper, Scissors) with labeled bounding boxes for each sign, as well as background images with no hand signs to improve the model's ability to distinguish between signs and irrelevant scenes.
+The dataset used for this project is a preprocessed dataset from [Roboflow](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw), which contains images of hand signs (Rock, Paper, Scissors) with labeled bounding boxes for each sign, as well as background images with no hand signs to improve the model's ability to distinguish between signs and irrelevant scenes. This is the dataset used to train the vision model in this project.
 
 ### Dataset Structure
 
